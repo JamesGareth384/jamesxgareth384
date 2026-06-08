@@ -1,9 +1,9 @@
-# Hi, I'm James Gareth 👋
+# Hi, I'm Christopher Adams Cornell
 
 Senior AI/ML Engineer with a Ph.D. from MIT. I build LLM evaluation systems, RLHF pipelines, and production-grade Python applications.
 
 ## 🔬 What I work on
-- LLM training & evaluation frameworks (GPT-4, Claude, Gemini, Mistral)
+- LLM training & evaluation frameworks
 - RLHF data quality pipelines · inter-rater agreement · annotation scoring
 - AI agent stress-testing · adversarial prompt engineering
 - MLOps: Docker, AWS SageMaker, FastAPI, Airflow
