@@ -1,6 +1,6 @@
-# Hi, I'm Christopher Adams Cornell
+# Hi, I'm James Gareth
 
-Senior AI/ML Engineer with a Ph.D. from MIT. I build LLM evaluation systems, RLHF pipelines, and production-grade Python applications.
+Senior AI/ML Engineer. I build LLM evaluation systems, RLHF pipelines, and production-grade Python applications.
 
 ## 🔬 What I work on
 - LLM training & evaluation frameworks
