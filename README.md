@@ -2,7 +2,7 @@
 
 Data Annotator · RLHF Evaluator · AI Training Specialist · Software Engineer
 
-AI training professional with hands-on experience in data annotation, RLHF evaluation, and software engineering. Comfortable working independently through high-volume review queues, building evaluation scenarios, and writing and testing production code.
+Computer Science and Software Engineering professional with 3 years experience in data annotation, RLHF evaluation, and software engineering. Comfortable working independently through high-volume review queues, building evaluation scenarios, and writing and testing production code.
 
 ## 🔍 What I work on
 - Data annotation & labeling, RLHF response ranking and comparison
