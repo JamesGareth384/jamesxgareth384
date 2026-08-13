@@ -1,16 +1,18 @@
 # Hi, I'm James Gareth
 
-Senior AI/ML Engineer. I build LLM evaluation systems, RLHF pipelines, and production-grade Python applications.
+Data Annotator · RLHF Evaluator · AI Training Specialist · Software Engineer
 
-## 🔬 What I work on
-- LLM training & evaluation frameworks
-- RLHF data quality pipelines · inter-rater agreement · annotation scoring
-- AI agent stress-testing · adversarial prompt engineering
-- MLOps: Docker, AWS SageMaker, FastAPI, Airflow
+AI training professional with hands-on experience in data annotation, RLHF evaluation, and software engineering. Comfortable working independently through high-volume review queues, building evaluation scenarios, and writing and testing production code.
 
-## 🛠️ Tech stack
-Python · PyTorch · Hugging Face · LangChain · scikit-learn · spaCy · FastAPI · AWS · Docker
+## 🔍 What I work on
+- Data annotation & labeling, RLHF response ranking and comparison
+- Rubric-based quality review · guideline calibration & QA
+- AI evaluation scenario & persona design
+- Backend development: REST APIs (FastAPI), Spring Boot services
+
+## 🛠 Tech stack
+Python · Java · SQL · FastAPI · Spring Boot · JUnit · Git · SPSS · MATLAB · Tableau
 
 ## 📫 Reach me
-- LinkedIn: linkedin.com/in/jamesxgareth384
-- Portfolio: jamesxgareth384.netlify.app
+- Email: jamesgareth384@gmail.com
+- GitHub: github.com/JamesGareth384
